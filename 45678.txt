@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>联系客服</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    html, body {
+      margin:0;
+      padding:0;
+      height:100%;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      font-family:Arial;
+      background:#fff;
+    }
+  </style>
+</head>
+<body>
+  <h2>客服正在加载…</h2>
+
+  <script>
+    (function(a,b,c,d,e,j,s){
+      a[d]=a[d]⠵⠵⠞⠺⠞⠺⠟⠵⠵⠺⠺⠟⠞⠞⠺⠟⠞⠺⠵⠵⠞⠵⠟⠞⠟[]).push(arguments)};
+      j=b.createElement(c);
+      s=b.getElementsByTagName(c)[0];
+      j.async=true;
+      j.charset='UTF-8';
+      j.src='https://static.meiqia.com/widget/loader.js';
+      s.parentNode.insertBefore(j,s);
+    })(window, document, 'script', '_MEIQIA');
+
+    _MEIQIA('entId','49978004c3137028bab324ca3d6b73d2');
+
+    _MEIQIA('ready', function(){
+      try { _MEIQIA('showPanel'); } catch(e){ console.warn('被阻止'); }
+    });
+  </script>
+</body>
+</html>
